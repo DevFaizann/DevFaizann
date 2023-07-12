@@ -1,6 +1,7 @@
 ##  Hi, I’m Faizan 👋🏻
 ### Check out some of what I'm working on 🦾
 - [AdBlocker](https://github.com/DevFaizann/adblocker/tree/popup) - JS based Ad Blocker chrome extension
+- [PromptAI](https://github.com/DevFaizann/PromptAI) - Explore diverse prompts and unlock the power of AI with this full-stack Next.js application built on top of React.js.
 - [Notepad for android](https://github.com/DevFaizann/Notepad-Color-Notes) - Simple, color changing notepad app for Android leveraging Java and Room DB
   
 ### My recent blog post ✍🏻
