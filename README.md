@@ -1,6 +1,6 @@
 ##  Hi, I’m Faizan 👋🏻
 ### Check out some of what I'm working on 🦾
-- [PassCraft](https://github.com/DevFaizann/PassCraft) - PassCraft is a powerful and intuitive password generator Chrome extension designed to enhance your online security.
+- [Genasaur](https://github.com/DevFaizann/genasaur) - SaaS Generative AI platform.
 - [PromptAI](https://github.com/DevFaizann/PromptAI) - Explore diverse prompts and unlock the power of AI with this full-stack Next.js application built on top of React.js.
 - [Notepad for Android](https://github.com/DevFaizann/Notepad-Color-Notes) - Simple, color-changing notepad app for Android leveraging Java and Room DB
   
