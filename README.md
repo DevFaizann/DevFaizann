@@ -1,7 +1,7 @@
 ##  Hi, I’m Faizan 👋🏻
 ### Check out some of what I'm working on 🦾
 - [Genasaur](https://github.com/DevFaizann/genasaur) - Software As A Service Generative AI Platform.
-- [Promptomania](https://github.com/DevFaizann/PromptAI) - Explore diverse prompts and unlock the power of AI with this full-stack Next.js application built on top of React.js.
+- [Promptomania](https://github.com/DevFaizann/Promptomania) - Explore diverse prompts and unlock the power of AI with this full-stack Next.js application built on top of React.js.
 - [Notepad for Android](https://github.com/DevFaizann/Notepad-Color-Notes) - Simple, color-changing notepad app for Android leveraging Java and Room DB
   
 ### My recent blog post ✍🏻
