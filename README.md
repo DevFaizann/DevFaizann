@@ -1,32 +1,43 @@
+<!---
 ##  Hi, I’m Faizan 👋🏻
+--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Faizan;I'm+a+Full+Stack+Developer;A+Machine+Learning+Enthusiast;Upcoming+Data+Scientist;Happy+Coding!)](https://git.io/typing-svg)
+
 ### Check out some of what I'm working on 🦾
 - [Genasaur](https://github.com/DevFaizann/genasaur) - Software As A Service Generative AI Platform.
 - [Promptomania](https://github.com/DevFaizann/Promptomania) - Explore diverse prompts and unlock the power of AI with this full-stack Next.js application built on top of React.js.
-- [Notepad for Android](https://github.com/DevFaizann/Notepad-Color-Notes) - Simple, color-changing notepad app for Android leveraging Java and Room DB
+- [Notepad for Android](https://github.com/DevFaizann/Notepad-Color-Notes) - Simple, color-changing notepad app for Android leveraging Java and Room DB.
   
+<a href="https://github.com/DevFaizann">
+  <img height=200 alt="Faizan Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=DevFaizann&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+
+<a href="https://github.com/DevFaizann">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevFaizann&show_icons=true&locale=en&layout=donut&theme=react&bg_color=0D1117&hide_border=true" />
+</a>  
+
+ ### Open to Collaborations🫱🏼‍🫲🏼: Let's Create Tech Marvels Together! 🚀
+Seeking collaborations with fellow tech wizards!
+
+ <p align="center">
+    <a href="https://github.com/DevFaizann">
+        <img title="streaks" alt="streak" height=200
+            src="https://github-readme-streak-stats.herokuapp.com/?user=DevFaizann&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+    </a>
+</p>
+
 ### My recent blog post ✍🏻
 >  <a href="https://medium.com/@faizanmansuri.work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@faizanmansuri.work" height="30" width="40" /></a>ore blogs are on the way, stay tuned! 
 - [Beginner's Guide: Helms Chart](https://medium.com/@faizanmansuri.work/fun-and-easy-guide-to-helm-charts-for-kubernetes-dae75435c30f) - A fun way to get started with Helms Chart and, of course, Kubernetes.
-
-### Open to Collaborations🫱🏼‍🫲🏼: Let's Create Tech Marvels Together! 🚀
-Seeking collaborations with fellow tech wizards!
-
-### Profile views:
->![Visitor Count](https://profile-counter.glitch.me/{DevFaizann}/count.svg)
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevFaizann&show_icons=true&locale=en&layout=compact" alt="DevFaizann" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevFaizann&show_icons=true&locale=en&theme=radical" alt="DevFaizann" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevFaizann&" alt="DevFaizann" /></p>
-
 <br>
 
 <div align="center">
-
+<p align="center">
+    <a href="https://github.com/DevFaizann"><span>
+        <img align="center"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevFaizann&theme=github_dark" width="100%" />
+      </span></a>
+  </p>
   <div align="center">
       <a href="https://twitter.com/DevFaizann">
           <img
@@ -46,7 +57,21 @@ Seeking collaborations with fellow tech wizards!
   </div>
 
 </div>
+
+
 <!---
+<p align="center"><img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=DevFaizann&show_icons=true&locale=en&layout=donut&theme=react&hide_border=true&bg_color=0D1117"/></p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevFaizann&label=Profile%20views&color=0e75b6&style=flat"
+                      alt="DevFaizann" />
+    </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevFaizann&show_icons=true&locale=en&layout=compact" alt="DevFaizann" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevFaizann&show_icons=true&locale=en&theme=radical" alt="DevFaizann" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevFaizann&" alt="DevFaizann" /></p>
+### Profile views:
+>![Visitor Count](https://profile-counter.glitch.me/{DevFaizann}/count.svg)
 <details>
   <summary>:zap: GitHub Stats</summary>
   [![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevFaizann&show_icons=true&theme=radical)](https://github.com/DevFaizann/github-readme-stats)
