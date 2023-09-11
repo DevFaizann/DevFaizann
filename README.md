@@ -4,9 +4,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Faizan;I'm+a+Full+Stack+Developer;A+Machine+Learning+Enthusiast;Upcoming+Data+Scientist;Happy+Coding!)](https://git.io/typing-svg)
 
 ### Check out some of what I'm working on 🦾
-- [Genasaur](https://github.com/DevFaizann/genasaur) - Software As A Service Generative AI Platform.
-- [Promptomania](https://github.com/DevFaizann/Promptomania) - Explore diverse prompts and unlock the power of AI with this full-stack Next.js application built on top of React.js.
-- [Notepad for Android](https://github.com/DevFaizann/Notepad-Color-Notes) - Simple, color-changing notepad app for Android leveraging Java and Room DB.
+- [Classic Cuts](https://github.com/classic-cuts) - Advanced MERN stack E-commerce store and admin panel.
+- [Calcom](https://github.com/calcom/cal.com) - Scheduling infrastructure.
+- [Scrapy](https://github.com/DevFaizann/Scrapy) - Web scraper build with python.
   
 <a href="https://github.com/DevFaizann">
   <img height=200 alt="Faizan Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=DevFaizann&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
