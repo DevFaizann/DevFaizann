@@ -6,7 +6,7 @@
 ### Check out some of what I'm working on 🦾
 - [Classic Cuts](https://github.com/classic-cuts) - Advanced MERN stack E-commerce store and admin panel.
 - [Calcom](https://github.com/calcom/cal.com) - Scheduling infrastructure.
-- [Scrapy](https://github.com/DevFaizann/Scrapy) - Web scraper build with python.
+- [Scrapy](https://github.com/DevFaizann/Scrapy) - Web scraper build with Python.
   
 <a href="https://github.com/DevFaizann">
   <img height=200 alt="Faizan Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=DevFaizann&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
@@ -21,8 +21,7 @@ Seeking collaborations with fellow tech wizards!
 
  <p align="center">
     <a href="https://github.com/DevFaizann">
-        <img title="streaks" alt="streak" height=200
-            src="https://github-readme-streak-stats.herokuapp.com/?user=DevFaizann&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+        <img title="streaks" alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=DevFaizann&theme=blue-green&hide_border=true&exclude_days=Sun%2CSat&stroke=0000&background=060A0CD0" />
     </a>
 </p>
 
