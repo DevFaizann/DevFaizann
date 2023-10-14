@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Faizan;I'm+a+Full+Stack+Developer;A+Machine+Learning+Enthusiast;Upcoming+Data+Scientist;Happy+Coding!)](https://git.io/typing-svg)
 
 ### Check out some of what I'm working on 🦾
-- [Classic Cuts](https://github.com/classic-cuts) - Advanced MERN stack E-commerce store and admin panel.
+- [Classic Cuts](https://github.com/classic-cuts/classic-cuts-pro) - Advanced MERN stack E-commerce store and admin panel.
 - [Calcom](https://github.com/calcom/cal.com) - Scheduling infrastructure.
 - [Scrapy](https://github.com/DevFaizann/Scrapy) - Web scraper build with Python.
   
