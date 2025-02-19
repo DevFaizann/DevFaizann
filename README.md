@@ -1,10 +1,9 @@
 <!---
 ##  Hi, I’m Faizan 👋🏻
 --->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Faizan;I'm+a+Full+Stack+Developer;A+Machine+Learning+Enthusiast;Upcoming+Data+Scientist;Happy+Coding!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=hi+there!;Faizan+here;i+like+softwares;learning+data+engineering;thank+you)](https://git.io/typing-svg)
 
 ### Check out some of what I'm working on 🦾
-- [Classic Cuts](https://github.com/classic-cuts/classic-cuts-pro) - Advanced MERN stack E-commerce store and admin panel.
 - [Calcom](https://github.com/calcom/cal.com) - Scheduling infrastructure.
 - [Scrapy](https://github.com/DevFaizann/Scrapy) - Web scraper build with Python.
   
@@ -16,7 +15,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevFaizann&show_icons=true&locale=en&layout=donut&theme=react&bg_color=0D1117&hide_border=true" />
 </a>  
 
- ### Open to Collaborations🫱🏼‍🫲🏼: Let's Create Tech Marvels Together! 🚀
+ ### Let's Create Tech Marvels Together! 🚀
 Seeking collaborations with fellow tech wizards!
 
  <p align="center">
