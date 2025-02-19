@@ -37,7 +37,7 @@ Seeking collaborations with fellow tech wizards!
       </span></a>
   </p>
   <div align="center">
-      <a href="https://twitter.com/DevFaizann">
+      <a href="https://twitter.com/faizzvn">
           <img
             src="https://media.roboflow.com/notebooks/template/icons/purple/twitter.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949634652"
             width="3%"
