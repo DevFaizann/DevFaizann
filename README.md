@@ -3,9 +3,7 @@
 --->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=hi+there!;Faizan+here;i+like+softwares;learning+data+engineering;thank+you)](https://git.io/typing-svg)
 
-### Check out some of what I'm working on 🦾
-- [Calcom](https://github.com/calcom/cal.com) - Scheduling infrastructure.
-- [Scrapy](https://github.com/DevFaizann/Scrapy) - Web scraper build with Python.
+### currently working on a [Data Warehouse Project](https://github.com/DevFaizann/sql-data-warehouse) - a fun practice project before i start a data lakehouse project
   
 <a href="https://github.com/DevFaizann">
   <img height=200 alt="Faizan Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=DevFaizann&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
